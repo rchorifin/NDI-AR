@@ -1,0 +1,12 @@
+{
+  "name": "NDI AutoRecord Pro",
+  "description": "Aplikasi desktop broadcast recorder otomatis berbasis jadwal hari, tanggal, dan waktu dengan input NDI, kompresi MP4/MKV, notifikasi real-time, mode offline, dan sinkronisasi cloud otomatis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
